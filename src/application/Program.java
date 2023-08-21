@@ -13,6 +13,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
 		Client client = new Client();
+		
 
 		client.register();
 		System.out.println("");
