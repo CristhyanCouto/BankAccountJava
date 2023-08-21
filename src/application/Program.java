@@ -2,7 +2,6 @@ package application;
 
 import java.util.Locale;
 import java.util.Scanner;
-
 import entities.Client;
 
 public class Program {
@@ -14,7 +13,6 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Client client = new Client();
 		
-
 		client.register();
 		System.out.println("");
 

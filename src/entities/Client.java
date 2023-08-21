@@ -11,7 +11,6 @@ public class Client {
 	private String clientName;
 	private double accountBalance;
 	
-
 	@Override
 	public String toString() {
 		return "Client Account: "
