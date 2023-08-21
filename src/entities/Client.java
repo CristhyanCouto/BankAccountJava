@@ -36,9 +36,7 @@ public class Client {
 	public double getAccountBalance() {
 		return accountBalance;
 	}
-	public void setAccountBalance(double accountBalance) {
-		this.accountBalance = accountBalance;
-	}
+
 	public int getBankAccount() {
 		return bankAccount;
 	}
